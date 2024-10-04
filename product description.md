@@ -35,7 +35,7 @@ The Electric Coffee Mug Heater relies on **USB Power Delivery (USB PD)** for its
     - At **15 V**: **3 A**
     - At **20 V**: **3 A**
 
-**Heating Control Adjustment:**==
+**Heating Control Adjustment:**
 
 In situations where the host power supply cannot provide the required power levels, the heater must automatically adjust its heating controls. The device will modulate temperature settings to align with the available power supply without exceeding it. While this adjustment may result in slower heating times, the system is designed to maintain the target temperature within operational constraints to ensure user satisfaction.
 
