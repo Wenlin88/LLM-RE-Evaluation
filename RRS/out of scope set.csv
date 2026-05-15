@@ -1,0 +1,9 @@
+ID;Requirement;Citation;EARS;Classification;Type;Notes / Actions needed
+1;The Cozy Coffee Mug SHALL have a high-quality metallic casing.;"""Constructed with a high-quality metallic casing, the Cozy Coffee Mug ensures optimal thermal conductivity, allowing efficient heat transfer.""";Ubiquitous;Ambiguous;Non-Functional;
+2;The Cozy Coffee Mug SHALL have a capacity of 350 ml.;"""The mug has a capacity of 350 ml, accommodating standard beverage sizes.""";Ubiquitous;Explicit;Non-Functional;
+3;The Cozy Coffee Mug SHALL be 110 mm tall.;"""It stands at 110 mm tall with a 75 mm base.""";Ubiquitous;Explicit;Non-Functional;
+4;The Cozy Coffee Mug SHALL have a base diameter of 75 mm.;"""It stands at 110 mm tall with a 75 mm base.""";Ubiquitous;Explicit;Non-Functional;
+5;The handle of the Cozy Coffee Mug SHALL extend 35 mm from the mug's side.;"""The handle extends 35 mm from the mug's side, starting 20 mm from the bottom, providing a comfortable grip.""";Ubiquitous;Explicit;Non-Functional;
+6;The handle of the Cozy Coffee Mug SHALL start 20 mm from the bottom.;"""The handle extends 35 mm from the mug's side, starting 20 mm from the bottom, providing a comfortable grip.""";Ubiquitous;Explicit;Non-Functional;
+7;The Cozy Coffee Mug SHALL weigh approximately 300 grams when empty.;"""Weighing approximately 300 grams when empty, the Cozy Coffee Mug is lightweight yet sturdy.""";Ubiquitous;Incomplete;Non-Functional;
+8;The Cozy Coffee Mug SHALL have an ergonomic design.;"""Its ergonomic design complements the heater aesthetically and ensures a pleasant user experience.""";Ubiquitous;Ambiguous, Unverifiable;Non-Functional;
